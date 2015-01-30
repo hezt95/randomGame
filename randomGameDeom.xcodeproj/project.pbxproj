@@ -7,13 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B9019F931A37172F00F69C4F /* a1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F821A37172F00F69C4F /* a1.jpg */; };
+		B9019F941A37172F00F69C4F /* a2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F831A37172F00F69C4F /* a2.jpg */; };
+		B9019F951A37172F00F69C4F /* a3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F841A37172F00F69C4F /* a3.jpg */; };
+		B9019F961A37172F00F69C4F /* a4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F851A37172F00F69C4F /* a4.jpg */; };
+		B9019F971A37172F00F69C4F /* a5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F861A37172F00F69C4F /* a5.jpg */; };
+		B9019F981A37172F00F69C4F /* a6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F871A37172F00F69C4F /* a6.jpg */; };
+		B9019F991A37172F00F69C4F /* a7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F881A37172F00F69C4F /* a7.jpg */; };
+		B9019F9A1A37172F00F69C4F /* a8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F891A37172F00F69C4F /* a8.jpg */; };
+		B9019F9B1A37172F00F69C4F /* a9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F8A1A37172F00F69C4F /* a9.jpg */; };
+		B9019F9C1A37172F00F69C4F /* a10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F8B1A37172F00F69C4F /* a10.jpg */; };
+		B9019F9D1A37172F00F69C4F /* a11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F8C1A37172F00F69C4F /* a11.jpg */; };
+		B9019F9E1A37172F00F69C4F /* a12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F8D1A37172F00F69C4F /* a12.jpg */; };
+		B9019F9F1A37172F00F69C4F /* a13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F8E1A37172F00F69C4F /* a13.jpg */; };
+		B9019FA01A37172F00F69C4F /* a14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F8F1A37172F00F69C4F /* a14.jpg */; };
+		B9019FA11A37172F00F69C4F /* lose.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B9019F901A37172F00F69C4F /* lose.jpg */; };
+		B9019FA31A37172F00F69C4F /* win.png in Resources */ = {isa = PBXBuildFile; fileRef = B9019F921A37172F00F69C4F /* win.png */; };
+		B9019FAB1A371E1C00F69C4F /* ChoiceTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B9019FAA1A371E1C00F69C4F /* ChoiceTableViewCell.m */; };
+		B95BD4AC1A35BE5400A3CD3D /* ChoiceTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B95BD4AB1A35BE5400A3CD3D /* ChoiceTableViewController.m */; };
+		B95BD4AF1A35BF5600A3CD3D /* BeginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B95BD4AE1A35BF5600A3CD3D /* BeginViewController.m */; };
 		B9BE981A1A31FC9F004E8B0E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B9BE98191A31FC9F004E8B0E /* main.m */; };
 		B9BE981D1A31FC9F004E8B0E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B9BE981C1A31FC9F004E8B0E /* AppDelegate.m */; };
-		B9BE98201A31FC9F004E8B0E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9BE981F1A31FC9F004E8B0E /* ViewController.m */; };
-		B9BE98231A31FC9F004E8B0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9BE98211A31FC9F004E8B0E /* Main.storyboard */; };
 		B9BE98251A31FC9F004E8B0E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9BE98241A31FC9F004E8B0E /* Images.xcassets */; };
 		B9BE98281A31FC9F004E8B0E /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B9BE98261A31FC9F004E8B0E /* LaunchScreen.xib */; };
 		B9BE98341A31FC9F004E8B0E /* randomGameDeomTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B9BE98331A31FC9F004E8B0E /* randomGameDeomTests.m */; };
+		B9C8B8411A38AEAB00033D10 /* WinViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9C8B8401A38AEAB00033D10 /* WinViewController.m */; };
+		B9C8B8441A38AEB800033D10 /* LoseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9C8B8431A38AEB800033D10 /* LoseViewController.m */; };
+		B9C8B8471A3949FC00033D10 /* testViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B9C8B8461A3949FC00033D10 /* testViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,19 +47,44 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B9019F821A37172F00F69C4F /* a1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a1.jpg; sourceTree = "<group>"; };
+		B9019F831A37172F00F69C4F /* a2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a2.jpg; sourceTree = "<group>"; };
+		B9019F841A37172F00F69C4F /* a3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a3.jpg; sourceTree = "<group>"; };
+		B9019F851A37172F00F69C4F /* a4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a4.jpg; sourceTree = "<group>"; };
+		B9019F861A37172F00F69C4F /* a5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a5.jpg; sourceTree = "<group>"; };
+		B9019F871A37172F00F69C4F /* a6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a6.jpg; sourceTree = "<group>"; };
+		B9019F881A37172F00F69C4F /* a7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a7.jpg; sourceTree = "<group>"; };
+		B9019F891A37172F00F69C4F /* a8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a8.jpg; sourceTree = "<group>"; };
+		B9019F8A1A37172F00F69C4F /* a9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a9.jpg; sourceTree = "<group>"; };
+		B9019F8B1A37172F00F69C4F /* a10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a10.jpg; sourceTree = "<group>"; };
+		B9019F8C1A37172F00F69C4F /* a11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a11.jpg; sourceTree = "<group>"; };
+		B9019F8D1A37172F00F69C4F /* a12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a12.jpg; sourceTree = "<group>"; };
+		B9019F8E1A37172F00F69C4F /* a13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a13.jpg; sourceTree = "<group>"; };
+		B9019F8F1A37172F00F69C4F /* a14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = a14.jpg; sourceTree = "<group>"; };
+		B9019F901A37172F00F69C4F /* lose.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lose.jpg; sourceTree = "<group>"; };
+		B9019F921A37172F00F69C4F /* win.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = win.png; sourceTree = "<group>"; };
+		B9019FA91A371E1C00F69C4F /* ChoiceTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChoiceTableViewCell.h; sourceTree = "<group>"; };
+		B9019FAA1A371E1C00F69C4F /* ChoiceTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChoiceTableViewCell.m; sourceTree = "<group>"; };
+		B95BD4AA1A35BE5400A3CD3D /* ChoiceTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChoiceTableViewController.h; sourceTree = "<group>"; };
+		B95BD4AB1A35BE5400A3CD3D /* ChoiceTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChoiceTableViewController.m; sourceTree = "<group>"; };
+		B95BD4AD1A35BF5600A3CD3D /* BeginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BeginViewController.h; sourceTree = "<group>"; };
+		B95BD4AE1A35BF5600A3CD3D /* BeginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BeginViewController.m; sourceTree = "<group>"; };
 		B9BE98141A31FC9F004E8B0E /* randomGameDeom.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = randomGameDeom.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9BE98181A31FC9F004E8B0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B9BE98191A31FC9F004E8B0E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B9BE981B1A31FC9F004E8B0E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B9BE981C1A31FC9F004E8B0E /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		B9BE981E1A31FC9F004E8B0E /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		B9BE981F1A31FC9F004E8B0E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		B9BE98221A31FC9F004E8B0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B9BE98241A31FC9F004E8B0E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B9BE98271A31FC9F004E8B0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		B9BE982D1A31FC9F004E8B0E /* randomGameDeomTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = randomGameDeomTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9BE98321A31FC9F004E8B0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B9BE98331A31FC9F004E8B0E /* randomGameDeomTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = randomGameDeomTests.m; sourceTree = "<group>"; };
+		B9C8B83F1A38AEAB00033D10 /* WinViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WinViewController.h; sourceTree = "<group>"; };
+		B9C8B8401A38AEAB00033D10 /* WinViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WinViewController.m; sourceTree = "<group>"; };
+		B9C8B8421A38AEB800033D10 /* LoseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoseViewController.h; sourceTree = "<group>"; };
+		B9C8B8431A38AEB800033D10 /* LoseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoseViewController.m; sourceTree = "<group>"; };
+		B9C8B8451A3949FC00033D10 /* testViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testViewController.h; sourceTree = "<group>"; };
+		B9C8B8461A3949FC00033D10 /* testViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +105,49 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B9019F811A37172F00F69C4F /* images */ = {
+			isa = PBXGroup;
+			children = (
+				B9019F821A37172F00F69C4F /* a1.jpg */,
+				B9019F831A37172F00F69C4F /* a2.jpg */,
+				B9019F841A37172F00F69C4F /* a3.jpg */,
+				B9019F851A37172F00F69C4F /* a4.jpg */,
+				B9019F861A37172F00F69C4F /* a5.jpg */,
+				B9019F871A37172F00F69C4F /* a6.jpg */,
+				B9019F881A37172F00F69C4F /* a7.jpg */,
+				B9019F891A37172F00F69C4F /* a8.jpg */,
+				B9019F8A1A37172F00F69C4F /* a9.jpg */,
+				B9019F8B1A37172F00F69C4F /* a10.jpg */,
+				B9019F8C1A37172F00F69C4F /* a11.jpg */,
+				B9019F8D1A37172F00F69C4F /* a12.jpg */,
+				B9019F8E1A37172F00F69C4F /* a13.jpg */,
+				B9019F8F1A37172F00F69C4F /* a14.jpg */,
+				B9019F901A37172F00F69C4F /* lose.jpg */,
+				B9019F921A37172F00F69C4F /* win.png */,
+			);
+			name = images;
+			path = ../01;
+			sourceTree = "<group>";
+		};
+		B9019FA41A37174A00F69C4F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B95BD4AD1A35BF5600A3CD3D /* BeginViewController.h */,
+				B95BD4AE1A35BF5600A3CD3D /* BeginViewController.m */,
+				B9C8B8451A3949FC00033D10 /* testViewController.h */,
+				B9C8B8461A3949FC00033D10 /* testViewController.m */,
+				B95BD4AA1A35BE5400A3CD3D /* ChoiceTableViewController.h */,
+				B95BD4AB1A35BE5400A3CD3D /* ChoiceTableViewController.m */,
+				B9019FA91A371E1C00F69C4F /* ChoiceTableViewCell.h */,
+				B9019FAA1A371E1C00F69C4F /* ChoiceTableViewCell.m */,
+				B9C8B83F1A38AEAB00033D10 /* WinViewController.h */,
+				B9C8B8401A38AEAB00033D10 /* WinViewController.m */,
+				B9C8B8421A38AEB800033D10 /* LoseViewController.h */,
+				B9C8B8431A38AEB800033D10 /* LoseViewController.m */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
 		B9BE980B1A31FC9F004E8B0E = {
 			isa = PBXGroup;
 			children = (
@@ -81,11 +169,10 @@
 		B9BE98161A31FC9F004E8B0E /* randomGameDeom */ = {
 			isa = PBXGroup;
 			children = (
+				B9019F811A37172F00F69C4F /* images */,
+				B9019FA41A37174A00F69C4F /* Views */,
 				B9BE981B1A31FC9F004E8B0E /* AppDelegate.h */,
 				B9BE981C1A31FC9F004E8B0E /* AppDelegate.m */,
-				B9BE981E1A31FC9F004E8B0E /* ViewController.h */,
-				B9BE981F1A31FC9F004E8B0E /* ViewController.m */,
-				B9BE98211A31FC9F004E8B0E /* Main.storyboard */,
 				B9BE98241A31FC9F004E8B0E /* Images.xcassets */,
 				B9BE98261A31FC9F004E8B0E /* LaunchScreen.xib */,
 				B9BE98171A31FC9F004E8B0E /* Supporting Files */,
@@ -168,6 +255,7 @@
 				TargetAttributes = {
 					B9BE98131A31FC9F004E8B0E = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = J9D296U3J9;
 					};
 					B9BE982C1A31FC9F004E8B0E = {
 						CreatedOnToolsVersion = 6.1;
@@ -199,9 +287,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9BE98231A31FC9F004E8B0E /* Main.storyboard in Resources */,
+				B9019F9D1A37172F00F69C4F /* a11.jpg in Resources */,
+				B9019F9C1A37172F00F69C4F /* a10.jpg in Resources */,
+				B9019F931A37172F00F69C4F /* a1.jpg in Resources */,
+				B9019F9A1A37172F00F69C4F /* a8.jpg in Resources */,
+				B9019F9E1A37172F00F69C4F /* a12.jpg in Resources */,
+				B9019FA11A37172F00F69C4F /* lose.jpg in Resources */,
+				B9019F951A37172F00F69C4F /* a3.jpg in Resources */,
+				B9019F941A37172F00F69C4F /* a2.jpg in Resources */,
+				B9019F961A37172F00F69C4F /* a4.jpg in Resources */,
 				B9BE98281A31FC9F004E8B0E /* LaunchScreen.xib in Resources */,
+				B9019F9F1A37172F00F69C4F /* a13.jpg in Resources */,
+				B9019F981A37172F00F69C4F /* a6.jpg in Resources */,
+				B9019F991A37172F00F69C4F /* a7.jpg in Resources */,
+				B9019FA01A37172F00F69C4F /* a14.jpg in Resources */,
+				B9019FA31A37172F00F69C4F /* win.png in Resources */,
 				B9BE98251A31FC9F004E8B0E /* Images.xcassets in Resources */,
+				B9019F971A37172F00F69C4F /* a5.jpg in Resources */,
+				B9019F9B1A37172F00F69C4F /* a9.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,7 +322,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9BE98201A31FC9F004E8B0E /* ViewController.m in Sources */,
+				B9019FAB1A371E1C00F69C4F /* ChoiceTableViewCell.m in Sources */,
+				B9C8B8441A38AEB800033D10 /* LoseViewController.m in Sources */,
+				B9C8B8411A38AEAB00033D10 /* WinViewController.m in Sources */,
+				B95BD4AF1A35BF5600A3CD3D /* BeginViewController.m in Sources */,
+				B95BD4AC1A35BE5400A3CD3D /* ChoiceTableViewController.m in Sources */,
+				B9C8B8471A3949FC00033D10 /* testViewController.m in Sources */,
 				B9BE981D1A31FC9F004E8B0E /* AppDelegate.m in Sources */,
 				B9BE981A1A31FC9F004E8B0E /* main.m in Sources */,
 			);
@@ -244,14 +352,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		B9BE98211A31FC9F004E8B0E /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				B9BE98221A31FC9F004E8B0E /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		B9BE98261A31FC9F004E8B0E /* LaunchScreen.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -343,9 +443,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = randomGameDeom/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -353,9 +457,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = randomGameDeom/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -412,6 +520,7 @@
 				B9BE98391A31FC9F004E8B0E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B9BE983A1A31FC9F004E8B0E /* Build configuration list for PBXNativeTarget "randomGameDeomTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +529,7 @@
 				B9BE983C1A31FC9F004E8B0E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
